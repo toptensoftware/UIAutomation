@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <NuspecFile>../Topten.UIAutomation.nuspec</NuspecFile>
+    <NoBuild>true</NoBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <OutputPath>../Build/$(Configuration)</OutputPath>
+    <IntermediateOutputPath>../Build/$(Configuration)/Package</IntermediateOutputPath>
+    <NuspecProperties>version=4.800.120.21303</NuspecProperties>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
