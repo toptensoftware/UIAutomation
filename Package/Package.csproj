@@ -7,7 +7,7 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <OutputPath>../Build/$(Configuration)</OutputPath>
     <IntermediateOutputPath>../Build/$(Configuration)/Package</IntermediateOutputPath>
-    <NuspecProperties>version=4.800.120.21303</NuspecProperties>
+    <NuspecProperties>version=0.0.1</NuspecProperties>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 

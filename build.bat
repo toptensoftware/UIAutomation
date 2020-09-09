@@ -1,3 +1,3 @@
 dotnet build Package
-dotnet nuget push .\Build\Topten.UIAutomation.4.800.120.21303.nupkg
+dotnet nuget push .\Build\Debug\Topten.UIAutomation.0.0.1.nupkg --source "Topten GitHub"
 
